@@ -1,10 +1,10 @@
 # Computação Gráfica
 
-Projeto desenvolvido na disciplina de Computação Grafica do curso Bacharelado em Tecnologia da Informação - UFERSA.
-
 🔗 Link: EM MANUTENÇÃO!
 
 # Sobre
+
+Projeto desenvolvido na disciplina de Computação Grafica do curso Bacharelado em Tecnologia da Informação - UFERSA.
 
 Usamos conceitos importantes da biblioteca three js.
 
