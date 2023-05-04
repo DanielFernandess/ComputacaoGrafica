@@ -1,6 +1,6 @@
 # Computação Gráfica
 
-🔗 Link: EM MANUTENÇÃO!
+🔗 Link: [Rocket Project](https://rocketprojectcg.vercel.app/ "Rocket Project").
 
 # Sobre
 
