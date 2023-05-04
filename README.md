@@ -1,6 +1,8 @@
 # Computação Gráfica
 
-🔗 Link: [Rocket Project](https://rocketprojectcg.vercel.app/ "Rocket Project").
+🔗 Link 1.0: [Rocket Project v1.0](https://rocketprojectcgv1.vercel.app/ "Rocket Project")
+
+🔗 Link 2.0: [Rocket Project v2.0](https://rocketprojectcgv2.vercel.app/ "Rocket Project")
 
 # Sobre
 
