@@ -21,7 +21,7 @@ Usamos conceitos importantes da biblioteca three js.
 # Tecnologia utilizada
 - HTML
 - CSS
-- Java Script
+- JavaScript
 - Biblioteca Three JS
 
 # Autores
