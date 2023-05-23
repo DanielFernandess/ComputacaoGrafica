@@ -1,24 +1,27 @@
 # Computação Gráfica
 
-🔗 Link: EM MANUTENÇÃO!
+🔗 Link 1.0: [Rocket Project v1.0](https://rocketprojectcgv1.vercel.app/ "Rocket Project")
+
+🔗 Link 2.0: [Rocket Project v2.0](https://rocketprojectcgv2.vercel.app/ "Rocket Project")
 
 # Sobre
 
 Projeto desenvolvido na disciplina de Computação Grafica do curso Bacharelado em Tecnologia da Informação - UFERSA.
 
+# Biblioteca Three JS
+
 Usamos conceitos importantes da biblioteca three js.
 
-# Biblioteca Three JS
 ## Funcionalidades Utilizadas 
+- Import object Blender
 - Ambient Light
 - GLTFLoader
 - Scenes, Animations, Cameras, Asset, Position, Animate
 
-
 # Tecnologia utilizada
 - HTML
 - CSS
-- Java Script
+- JavaScript
 - Biblioteca Three JS
 
 # Autores
@@ -27,7 +30,7 @@ Sergio;
 
 Wesley do Nascimento Vieira;
 
-Silvio Martins;
+[Silvio Martins;](https://github.com/SilvioUFERSA "GitHub Silvio Martins")
 
 Carlos Daniel Freire Fernandes;
 
