@@ -4,6 +4,8 @@
 
 🔗 Link 2.0: [Rocket Project v2.0](https://rocketprojectcgv2.vercel.app/ "Rocket Project")
 
+🔗 Link 3.0: [Rocket Project v3.0](https://rocketprojectcgv3.vercel.app/ "Rocket Project")
+
 # Sobre
 
 Projeto desenvolvido na disciplina de Computação Grafica do curso Bacharelado em Tecnologia da Informação - UFERSA.
